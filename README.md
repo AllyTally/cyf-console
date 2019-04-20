@@ -6,6 +6,16 @@ cool console, myan..
 
 press `` ` `` or `f10` to open the console
 
+if a line has more `(`s than `)`s, it automagically goes to a new line when you press enter
+
+if a line ends with `;`, it goes to a new line when you press enter
+
+if a line ends with `\`, it goes to a new line when you press enter, except this one works for strings (and breaks with anything else)
+
+you can also just press shift+enter to go to a new line
+
+arrow keys work like how youd expect
+
 ![cool imamge of console](https://ringo.is-a-good-waifu.com/7K3Nh9q.png)
 
 BASIC SETUP:
