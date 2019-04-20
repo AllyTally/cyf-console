@@ -4,6 +4,8 @@ cool console, myan..
 
 press `` ` `` or `f10` to open the console
 
+![cool imamge of console](https://ringo.is-a-good-waifu.com/7K3Nh9q.png)
+
 BASIC SETUP:
 
 ```lua
