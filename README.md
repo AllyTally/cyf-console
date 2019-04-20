@@ -44,4 +44,4 @@ you can open up the console.lua file and change the `self.cursorcolor/lines/font
 
 there's an easter egg, try and find it
 
-thanks to WD200019 for the arial font
+thanks to WD200019 for the arial font, and help with the j turning into \[ bug
