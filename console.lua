@@ -68,7 +68,7 @@ self.overrides = {
 ["Colon"] = ":",
 ["Semicolon"] = ";",
 ["Quote"] = "'",
-["LeftBracket"] = "♪",
+["LeftBracket"] = "ś",
 ["RightBracket"] = "]",
 ["Backslash"] = "\\",
 ["Comma"] = ",",
@@ -89,7 +89,7 @@ self.shifters = {
     ["0"] = ")",
     ["'"] = "\"",
     ["]"] = "}",
-    ["♪"] = "{",
+    ["ś"] = "{",
     ["-"] = "_",
     ["."] = ">",
     [","] = "<",
@@ -147,7 +147,7 @@ end
 
 function self.UnsafeParseString(stringa)
     local string = self.trim(stringa)
-    string = string:gsub("♪","[")
+    string = string:gsub("ś","[")
     if self.startsWith(string, "sv_cheats") then
         local arg = string:sub(11,string:len())
         if arg == "" then
