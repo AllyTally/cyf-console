@@ -329,7 +329,9 @@ function Update()
             end
         end
     end
-    _Update()
+    if _Update then
+        _Update()
+    end
     __Update()
 end
 
