@@ -33,7 +33,9 @@ also, put the font in `Sprites/UI/`, to make it look like `YourMod/Sprites/UI/Fo
 the console is stored inside of the `console` variable in the encounter file
 
 `console.cursorcolor` changes the color of the cursor, default is 00FF00
+
 `console.lines` changes the amount of lines to display, default is 10
+
 `console.font` changes the font, default is arial
 
 you can set this stuff up in the encounter file, but really, there's no real reason
