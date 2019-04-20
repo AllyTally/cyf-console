@@ -16,7 +16,7 @@ end
 
 just throw a `require "path/to/library"` in your EncounterStarting function and it should be good to go
 
-
+also, put the font in `Sprites/UI/`, to make it look like `YourMod/Sprites/UI/Fonts/arial.png` and `YourMod/Sprites/UI/Fonts/arial.xml`
 
 the console is stored inside of the `console` variable in the encounter file
 
