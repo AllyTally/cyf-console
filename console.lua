@@ -282,6 +282,10 @@ end
 
 local _Update = Update
 function Update()
+    if self.active then
+        self.text.x = 20 + Misc.cameraX
+        self.text.y = 480 + Misc.cameraY
+    end
     if self.noclip then
         local spd = 2
         if Input.Cancel > 0 then
