@@ -1,6 +1,6 @@
 --[[
     console.lua, an interactive console library for Create Your Frisk
-    https://github.com/Luigimaster1/cyf-console/
+    https://github.com/AllyTally/cyf-console/
 
     Copyright (C) 2019  Alexia Tilde
 
