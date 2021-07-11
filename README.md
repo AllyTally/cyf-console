@@ -2,7 +2,7 @@
 
 cool console, myan..
 
-!! if you encounter any issues, my discord is `Ally 🍦#1540` !!
+!! if you encounter any issues, join the unitale server !!
 
 press `` ` `` or `f10` to open the console
 
@@ -44,4 +44,4 @@ you can open up the console.lua file and change the `self.cursorcolor/lines/font
 
 there's an easter egg, try and find it
 
-thanks to WD200019 for the arial font, and help with the j turning into \[ bug
+thanks to Eir for the arial font, and help with the j turning into \[ bug
